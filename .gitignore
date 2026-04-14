@@ -1,0 +1,26 @@
+# Compiled output
+out/
+target/
+
+# JDBC driver (downloaded automatically by build.bat)
+lib/
+
+# Maven wrapper
+.mvn/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.classpath
+*.project
+*.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Scratch / temp
+sources.txt
